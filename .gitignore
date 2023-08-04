@@ -2,8 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.cph
 .env
+PDF Files/
 
 # C extensions
 *.so
